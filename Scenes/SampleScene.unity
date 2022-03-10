@@ -1781,7 +1781,7 @@ MonoBehaviour:
   _enemy: {fileID: -1710192365378335160, guid: 457d374709504f6438f4a4c7be69b4de, type: 3}
   _maxCooldown: 3
   _leftmostPosition: -3
-  _rightmostPosition: 3
+  _rightmostPosition: 4
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
